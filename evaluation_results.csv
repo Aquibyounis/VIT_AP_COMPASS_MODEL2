@@ -1,0 +1,89 @@
+Question,Model,Answer,Response Time (s),Similarity,Precision
+What is the difference between applying for leave through VTOP and applying for leave manually?,LLaMA,"So you want to know about leave applications here at VIT-AP.
+
+There are two ways to apply for leave: through the VTOP system or by manually submitting a request. Here's the difference:
+
+**Through VTOP:**
+
+1. You submit your leave application online through the VTOP portal.
+2. Your mentor reviews and approves your request.
+3. Once approved, you can check your leave status in the VTOP system.
+
+**Manually (by email):**
+
+1. You send an email to your mentor requesting leave.
+2. If approved, your mentor sends a confirmation email to their superiors (wardens).
+3. The warden then issues a leave form for you to fill out and submit.
+4. After submitting the form, you're marked as absent in the VTOP system.
+
+Both methods are accepted, but applying through VTOP is generally more convenient and efficient!",23.02,0.744,0.667
+"What are the restrictions for weekend outings on VTOP, and what happens if a student returns late?",LLaMA,"For weekend outings on VTOP, there are two main restrictions:
+
+1. You can only apply for weekend outings on **Sunday and Monday**.
+2. The outing duration is limited to **6 hours**.
+
+As for returning late from a weekend outing, I don't see that in the info I have — here's a safe next step: Can you tell me what specifically happens if a student returns late?",11.8,0.509,0.938
+How can a student raise a complaint about hostel maintenance issues using VTOP?,LLaMA,"To raise a complaint about hostel maintenance issues using VTOP, follow these steps:
+
+1. Sign in to your VTOP account.
+2. Open the VTOP Menu that is present on the top left corner of the page.
+3. Under the menu, select ""Feedback"".
+4. In the Feedback dropdown, you will see options for various issues including Hostel Maintenance.
+
+Please let me know if I can assist you further!",12.0,0.477,0.75
+Explain the steps to check your semester timetable on VTOP in simple words for a new student.,LLaMA,Hey! Welcome to VIT-AP. How's it going? Feeling excited about starting your semester?,9.55,0.18,0.118
+"If VTOP does not allow me to apply for leave due to technical issues, what alternative method is available?",LLaMA,"Hey! So you're facing some technical issues with applying for leave through VTOP. No worries!
+
+In that case, you can try reaching out to your mentor directly and ask them to approve your leave request by email. If they agree, they'll send a confirmation email to their superiors (wardens), and then the warden will issue a leave form for you to fill out and submit.
+
+Alternatively, you could also manually apply for leave using our manual application procedure: follow these steps:
+
+1. Mail to your mentor and get an approval from your respective mentor.
+2. Go to the respective warden's office and reach out to them by showing the approval mail from your mentor.
+3. Then the warden will give you a leave form to fill and you can fill that out.
+
+Hope this helps!",16.92,0.815,0.333
+What is the difference between applying for leave through VTOP and applying for leave manually?,Mistral," Applying for leave through VTOP and applying for leave manually both serve the same purpose but they differ in their process.
+
+1. VTOP: First, sign in to the VTOP page with your credentials. Then, open the VTOP Menu on the left side of the page. Under the menu bar click on the Hostels named drop down. In that, you'll find the General Outing option — click on it. Follow the prompts and complete the leave application process. Wait for the approval from both your mentor and warden.
+
+2. Manual: First, mail to your mentor and get an approval from them. Then, visit the respective warden's office and show them the approval email from your mentor. They will provide you with a leave form which you can fill out.
+
+In case the context lacks required info, here's a safe suggested next step: First, reach out to your mentor and inquire about their preferred method for applying for leave (either VTOP or manual) if it's not specified.",112.7,0.936,0.583
+"What are the restrictions for weekend outings on VTOP, and what happens if a student returns late?",Mistral," To apply for weekend outings on VTOP, follow these steps:
+
+1. First, sign in to the VTOP page with your credentials.
+2. Next, open the VTOP Menu on the left side of the page.
+3. Under the menu bar, click on the Hostels named drop down.
+4. In that, look for the Weekend Outing option and click on it.
+5. Keep in mind that you can only apply for weekend outings on Sunday and Monday.
+6. Also, remember that your application is for 6 hours only. If you're late to campus, your respective warden may cancel your next 4 weeks of weekend outings.
+7. Lastly, the college provides transport to Vijayawada for these outings. For more information on procedures, policies, and contacts, reach out to the Student Services or Transport department.
+
+If you're returning late from a weekend outing, it might lead to consequences such as having your next 4 weeks of weekend outings canceled. Be sure to respect the rules and return on time!",60.26,0.689,0.625
+How can a student raise a complaint about hostel maintenance issues using VTOP?,Mistral," To raise a complaint about hostel maintenance issues using VTOP at [College Name], follow these steps:
+
+1. Sign in to your VTOP account. If you haven't created an account yet, please do so by visiting the VTOP website and registering as a new user.
+2. Once logged in, look for the menu on the top left of the page. Click on it.
+3. In this menu, you'll find a dropdown named ""Feedback"". Go ahead and click on that.
+4. You'll see an option called ""Apply Complaint"". Give it a click!
+5. Now, fill out the required information about your complaint, including the hostel block affected and the details of the maintenance issue you're facing. Be as specific as possible to help us address the problem more effectively.
+6. After submitting your complaint, VTOP will work on resolving it. Once resolved, you can return to this section to provide feedback about how the process went.",70.74,0.484,0.833
+Explain the steps to check your semester timetable on VTOP in simple words for a new student.,Mistral," To help you check your semester timetable on VTOP as a new student, I'll break it down for you step by step!
+
+1. First things first - sign into your VTOP account using your credentials (username and password).
+2. Once you're logged in, look at the top left corner of the screen, and you'll find a menu with several dropdowns.
+3. Inside that menu, select 'Academics'.
+4. Now, search for 'Time Table' in the options that appear. Go ahead and click on it!
+5. You will now see an option to choose your semester. Click on the dropdown, and select the one you are currently enrolled in.
+6. With a single click, you'll get a clear timetable showing course codes, professors, venues, and class timings for each of your courses during that specific semester.
+
+Hope this helps! If you ever need help with something else or have more questions about navigating VTOP, feel free to ask.",99.95,0.466,0.706
+"If VTOP does not allow me to apply for leave due to technical issues, what alternative method is available?",Mistral," If you encounter technical issues while trying to apply for leave on VTOP, there's an alternative method available. Here's what you can do:
+
+1. First things first, reach out to your mentor via email and explain the issue you're facing with the VTOP system. Request for their approval for your leave. Be sure to include details about your leave dates, reasons, and any other necessary information in your email.
+2. Once you have received approval from your mentor, head over to the warden's office with a copy of that email. They will guide you through the manual process of applying for leave.
+3. The warden will provide you with a leave form to fill out and submit. Follow their instructions carefully to complete the form correctly.
+4. After submitting the form, wait for the warden's approval. Once you have it, you're good to go on your leave!
+
+If you don't have the context of who your mentor is or any other details, just remember to reach out to someone in authority at your college (like a dean or senior faculty member) and explain your situation. They should be able to guide you through the process. Good luck with your leave application!",50.25,0.828,0.611

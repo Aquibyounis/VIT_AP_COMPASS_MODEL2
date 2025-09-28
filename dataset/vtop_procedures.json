@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Apply for leave on VTOP",
+    "category": "VTOP",
+    "type": "procedure",
+    "text": "1. First, sign in to VTOP page with your credentials.\n2. Open the VTOP Menu on the left side of the page.\n3. Under the menu bar click on the Hostels named drop down.\n4. In that see for General Outing option and click on that.\n5. Complete the leave application process, wait for the approval of respective mentor and warden.\n6. Download the leave application form from the table that is displayed below the application form.",
+    "tags": "leave,VTOP,hostels,outing"
+  },
+  {
+    "title": "Apply for leave manually",
+    "category": "VTOP",
+    "type": "procedure",
+    "text": "1. If you are facing any issue to get leave from VTOP, follow these steps.\n2. Mail to your mentor and get approval.\n3. Go to the respective warden's office and show the approval mail.\n4. Warden will give a leave form to fill and then take leave.",
+    "tags": "leave,manual,VTOP,hostels"
+  },
+  {
+    "title": "Apply for weekend outings on VTOP",
+    "category": "VTOP",
+    "type": "procedure",
+    "text": "1. Sign in to VTOP page with your credentials.\n2. Open the VTOP Menu on the left side of the page.\n3. Click on the Hostels drop down.\n4. Click on Weekend Outing option.\n5. Apply only on Sunday and Monday.\n6. Outing duration is 6 hours; late returns cancel next 4 weeks outings.\n7. College transport available for Vijayawada.",
+    "tags": "outing,weekend,VTOP,hostels"
+  },
+  {
+    "title": "Apply for outings on weekdays",
+    "category": "VTOP",
+    "type": "procedure",
+    "text": "1. Approach your mentor for permission.\n2. After approval, reach out to your warden.\n3. Warden provides an out pass to fill in information.\n4. Enjoy your outing.",
+    "tags": "outing,weekdays,VTOP,hostels"
+  },
+  {
+    "title": "Raise complaints in VTOP",
+    "category": "VTOP",
+    "type": "procedure",
+    "text": "1. Sign in to VTOP.\n2. Open VTOP Menu → Feedback → Apply Complaint.\n3. Fill in the required information.\n4. After resolution, track in the table and give feedback if needed.",
+    "tags": "complaint,feedback,VTOP,maintenance"
+  },
+  {
+    "title": "Check Time Table on VTOP",
+    "category": "VTOP",
+    "type": "procedure",
+    "text": "1. Sign in to VTOP.\n2. Go to VTOP Menu → Academics.\n3. Click on Time Table.\n4. Select semester from dropdown.\n5. View courses, professors, venue, timings, and course codes.",
+    "tags": "timetable,academics,VTOP"
+  },
+  {
+    "title": "Check WIFI credentials on VTOP",
+    "category": "VTOP",
+    "type": "procedure",
+    "text": "1. Go to VTOP website with credentials.\n2. Click on the top-left menu → MyInfo dropdown.\n3. View WIFI credentials and Gmail information.",
+    "tags": "wifi,credentials,VTOP,MyInfo"
+  }
+]
