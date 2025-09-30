@@ -93,8 +93,11 @@ def run_query(query: str, memory) -> str:
 
     if not context.strip():
         greetings = ["hi", "hello", "hey", "hola", "how are you", "what's up"]
+        sending = ["bye", "adios", "jaane", "good bye", "goodbye", "see you later","tata"]
         if query.lower() in greetings:
             response = llm.invoke(f"Respond casually to: {query}")
+        if query.lower() in sending:
+            response = llm.invoke(f"Respond saying bye.")
         else:
             response = "Hmm, I don't see that in my data — you might want to check the official VIT-AP sources!"
     else:
