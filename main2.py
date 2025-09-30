@@ -10,7 +10,7 @@ from langchain_ollama import OllamaLLM
 # -------------------------------
 # CONFIG
 # -------------------------------
-DB_DIR = "chroma_db"
+DB_DIR = "new_db"
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 LLM_MODEL = "mistral"   # change if your Ollama mistral model has a different name
 TOP_K = 2

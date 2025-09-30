@@ -13,7 +13,7 @@ from langchain.memory import ConversationBufferMemory
 # -------------------------------
 # CONFIG
 # -------------------------------
-DB_DIR = "chroma_db"
+DB_DIR = "new_db"
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 LLM_MODEL = "llama3.2"    # Change if your Ollama model name differs
 TOP_K = 3                 # Number of docs to retrieve
