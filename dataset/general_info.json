@@ -75,5 +75,19 @@
     "type": "info",
     "text": "1. Wi-Fi is available across the campus for students and staff.\n2. There are two different wifi networks: one for campus and one for hostels.\n3. Students must use their institutional email IDs to access the Wi-Fi networks.\n4. For any connectivity issues, students can contact CTS at CB 421.",
     "tags": "wifi,internet,access,general"
+  },
+  {
+    "title": "VIT-AP University Website",
+    "category": "General Info",
+    "type": "info",
+    "text": "1. The official VIT-AP University website (https://vitap.ac.in) provides comprehensive information about the university, including admissions, academics, departments, research, and campus life.\n2. Students should regularly check the website for updates and announcements.",
+    "tags": "website,info,general"
+  },
+  {
+  "title": "University Guest House",
+  "category": "General Info",
+  "type": "info",
+  "text": "VIT-AP University maintains a Guest House for visiting faculty, guests, and visitors. Reservations can be made via the official university guesthouse portal. The guest house is located on campus and offers lodging facilities for official visitors or guests attending events.",
+  "tags": "guest house,visitors,accommodation,facilities"
   }
 ]
