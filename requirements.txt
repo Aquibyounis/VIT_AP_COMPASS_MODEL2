@@ -8,6 +8,7 @@ nltk
 duckduckgo_search
 langchain_chroma
 langchain_huggingface
+langchain_chroma
 
 fastapi
 uvicorn
